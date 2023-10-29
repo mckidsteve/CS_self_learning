@@ -11,4 +11,4 @@ the learning tree :
 - DataBase Systems | CMU 15-445 | (*CMU 15-799 / *stanford CS346)
 - Compilers | Stanford CS143 | ![]()
 - AI : harvard S50
-   
+- machine learning | coursera : machine learning
