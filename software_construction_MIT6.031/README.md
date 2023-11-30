@@ -7,5 +7,6 @@ this is because i rewrite it by python or golang in plan.
 
 thanks for your star.
 
-> [lesson website](http://web.mit.edu/6.031/www/sp23/)
-> 截止2023.12.30,该课程已经更新至sp23,课程内容基本无大更改,但缩减内容至19个课时,并且改为使用TS教学,[推荐]
+> [lesson website](http://web.mit.edu/6.031/www/sp21/)
+> 截止2023.12.30,该课程已经更新至sp23(6.102),课程内容基本无大更改,但缩减内容至19个课时,并且改为使用TS教学,并发部分被重构为了Promises还有mutual exclusion[推荐学习]
+> [lesson-sp23](http://web.mit.edu/6.031/www/sp23/)
