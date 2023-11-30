@@ -4,6 +4,4 @@
 > easy to understand
 > ready for change
 
-## Part 1
-- 环境: JDK,Eclipse,Git
-- clone repository: 
+一个简单的program , 帮助了解了软性项目构建的基础知识
